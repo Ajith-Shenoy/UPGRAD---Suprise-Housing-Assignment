@@ -1,4 +1,4 @@
-# Upgrad - Bike Sharing  Multiple Linear Regression Assignment 
+# Upgrad - US Suprise Housing Regularized MLR Assignment 
  **submisson for Regularized MLR assignment from upgrad IITB, by Ajith Shenoy**
 
 ## Problem Statement
